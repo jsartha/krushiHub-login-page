@@ -1,0 +1,6 @@
+{
+  "name": "KisanDirect - Farmer E-Commerce & Logistics",
+  "description": "Secure multi-role authentication and marketplace portal for farmers, fruit delivery partners, and agricultural product sellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
